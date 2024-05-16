@@ -1,1 +1,1 @@
-# JavaScript
+# Jogo PONG em JavaScript
